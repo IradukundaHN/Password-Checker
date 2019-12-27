@@ -6,9 +6,9 @@ This application check for validity of passwords. The following rules must be fo
 4.	At least 1 uppercase alphabetic character
 5.	At least 1 lowercase alphabetic character
 6.	No more than 2 of the same character in a sequence
-	⋅⋅* Hello123 – OK
-	⋅⋅* AAAbb123 – not OK
-	⋅⋅* Aaabb123 – OK
+	Hello123 – OK
+	AAAbb123 – not OK
+	Aaabb123 – OK
 
 ## Java Programming Concepts:
 1. Data Structure: ArrayList of Strings
